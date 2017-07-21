@@ -1,0 +1,80 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>E:/Akshar/Icons/1284569511_graph.png</file>
+    <file>E:/Akshar/Icons/1284570864_stock_task.png</file>
+    <file>E:/Akshar/Icons/Address Card.png</file>
+    <file>E:/Akshar/Icons/address.ico</file>
+    <file>E:/Akshar/Icons/administrative_docs.png</file>
+    <file>E:/Akshar/Icons/advertising.png</file>
+    <file>E:/Akshar/Icons/archives.png</file>
+    <file>E:/Akshar/Icons/Bar Graph.png</file>
+    <file>E:/Akshar/Icons/billing.png</file>
+    <file>E:/Akshar/Icons/block.ico</file>
+    <file>E:/Akshar/Icons/bookmark.ico</file>
+    <file>E:/Akshar/Icons/briefcase.ico</file>
+    <file>E:/Akshar/Icons/bubble.ico</file>
+    <file>E:/Akshar/Icons/business_contact.png</file>
+    <file>E:/Akshar/Icons/buy.ico</file>
+    <file>E:/Akshar/Icons/calendar.ico</file>
+    <file>E:/Akshar/Icons/Calendar.png</file>
+    <file>E:/Akshar/Icons/clipboard.ico</file>
+    <file>E:/Akshar/Icons/Clock - Time.png</file>
+    <file>E:/Akshar/Icons/clock.ico</file>
+    <file>E:/Akshar/Icons/Conference Device.png</file>
+    <file>E:/Akshar/Icons/consulting.png</file>
+    <file>E:/Akshar/Icons/Contact.png</file>
+    <file>E:/Akshar/Icons/delete.ico</file>
+    <file>E:/Akshar/Icons/diagram.ico</file>
+    <file>E:/Akshar/Icons/document library.png</file>
+    <file>E:/Akshar/Icons/document.ico</file>
+    <file>E:/Akshar/Icons/document_library.png</file>
+    <file>E:/Akshar/Icons/Documents.png</file>
+    <file>E:/Akshar/Icons/down.ico</file>
+    <file>E:/Akshar/Icons/Draft.png</file>
+    <file>E:/Akshar/Icons/draft_versions .png</file>
+    <file>E:/Akshar/Icons/flag.ico</file>
+    <file>E:/Akshar/Icons/folder.ico</file>
+    <file>E:/Akshar/Icons/gear.ico</file>
+    <file>E:/Akshar/Icons/globe.ico</file>
+    <file>E:/Akshar/Icons/heart.ico</file>
+    <file>E:/Akshar/Icons/help.ico</file>
+    <file>E:/Akshar/Icons/home.ico</file>
+    <file>E:/Akshar/Icons/Icons.qrc</file>
+    <file>E:/Akshar/Icons/info.ico</file>
+    <file>E:/Akshar/Icons/key.ico</file>
+    <file>E:/Akshar/Icons/label.ico</file>
+    <file>E:/Akshar/Icons/left.ico</file>
+    <file>E:/Akshar/Icons/letter.ico</file>
+    <file>E:/Akshar/Icons/license.txt</file>
+    <file>E:/Akshar/Icons/Mail.png</file>
+    <file>E:/Akshar/Icons/Marker.png</file>
+    <file>E:/Akshar/Icons/Milestone.png</file>
+    <file>E:/Akshar/Icons/monitor.ico</file>
+    <file>E:/Akshar/Icons/networking.png</file>
+    <file>E:/Akshar/Icons/Notes.png</file>
+    <file>E:/Akshar/Icons/old_versions .png</file>
+    <file>E:/Akshar/Icons/pencil.ico</file>
+    <file>E:/Akshar/Icons/plus.ico</file>
+    <file>E:/Akshar/Icons/Portfolio.png</file>
+    <file>E:/Akshar/Icons/present.ico</file>
+    <file>E:/Akshar/Icons/print.ico</file>
+    <file>E:/Akshar/Icons/Project Plan - Gant Chart.png</file>
+    <file>E:/Akshar/Icons/right.ico</file>
+    <file>E:/Akshar/Icons/save.ico</file>
+    <file>E:/Akshar/Icons/Search - Find.png</file>
+    <file>E:/Akshar/Icons/search.ico</file>
+    <file>E:/Akshar/Icons/shield.ico</file>
+    <file>E:/Akshar/Icons/Sitemap - Flowchart.png</file>
+    <file>E:/Akshar/Icons/statistics.ico</file>
+    <file>E:/Akshar/Icons/statistitcs.png</file>
+    <file>E:/Akshar/Icons/stop.ico</file>
+    <file>E:/Akshar/Icons/tick.ico</file>
+    <file>E:/Akshar/Icons/Todo.png</file>
+    <file>E:/Akshar/Icons/trash.ico</file>
+    <file>E:/Akshar/Icons/up.ico</file>
+    <file>E:/Akshar/Icons/User - Resource.png</file>
+    <file>E:/Akshar/Icons/user.ico</file>
+    <file>E:/Akshar/Icons/wallet.ico</file>
+    <file>E:/Akshar/Icons/warning.ico</file>
+  </qresource>
+</RCC>
