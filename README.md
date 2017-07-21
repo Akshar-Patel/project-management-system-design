@@ -1,4 +1,4 @@
-###### :rocket: my first ui design project 
+###### :rocket: my first ui design project :rocket:
 ## PMS Design: UI Design of Project Management System
 ### A design project for Project Management System which involved designing screens for different modules using Qt Designer.
 
