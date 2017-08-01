@@ -2,7 +2,7 @@
 ## PMS Design: UI Design for Project Management System
 ### A UI design project for Project Management System which involved designing screens for different modules using Qt Designer.
 
-* Tools: Qt Designer
+* Tools and OS: Qt Designer, Fedora
 * Modules: Tasks, Gantt Chart, Calendar, Resources, Reports, Users, Groups
 * Month-Year: SEP-2010
 
