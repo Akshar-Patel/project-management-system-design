@@ -4,7 +4,7 @@
 
 * Tools and OS: Qt Designer, Fedora
 * Modules: Tasks, Gantt Chart, Calendar, Resources, Reports, Users, Groups
-* Duration: 1 Week (SEP-2010)
+* Duration: 1 Week (SEP 2010)
 ### Screenshots
 
 ![home](screenshots/project_home.png)
